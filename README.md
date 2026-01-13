@@ -27,7 +27,7 @@
 
 <a href="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
   <img height="25" title="WebStorm" src="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png"   >
-<   /a>
+</a>
 <!-- <a href="https://github.com/feden2906/icons/blob/main/skils/VisualStudioCode.png">
   <img height="25" title="VSC" src="https://github.com/feden2906/icons/blob/main/skils/VisualStudioCode.png">
 </a> -->
@@ -92,6 +92,7 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 
 
 
