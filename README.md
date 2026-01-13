@@ -17,7 +17,7 @@
   <img title="feden2906" align="left" alt="Skype" width="24px" src="https://github.com/feden2906/icons/blob/main/skype.png" />
 </a>
 <a href="mailto:feden2906@gmail.com">
-  <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png"    />  
+  <img align="left" alt="Mail" width="24px" src="https://github.com/feden2906/icons/blob/main/gmail.png"/>  
 </a>
 
 <br />
@@ -26,8 +26,8 @@
 **Languages and Tools:**  
 
 <a href="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
-  <img height="25" title="WebStorm" src="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png ">
-</a>
+  <img height="25" title="WebStorm" src="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png"   >
+<   /a>
 <!-- <a href="https://github.com/feden2906/icons/blob/main/skils/VisualStudioCode.png">
   <img height="25" title="VSC" src="https://github.com/feden2906/icons/blob/main/skils/VisualStudioCode.png">
 </a> -->
@@ -92,6 +92,7 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
 
 
 
