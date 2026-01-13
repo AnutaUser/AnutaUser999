@@ -25,7 +25,7 @@
 
 **Languages and Tools:**  
 
-<a href="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
+<a paddingright='5' href="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
   <img height="25" title="WebStorm" src="https://github.com/feden2906/icons/blob/main/skils/WebStorm.png">
 </a>
 <!-- <a href="https://github.com/feden2906/icons/blob/main/skils/VisualStudioCode.png">
